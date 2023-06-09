@@ -1,0 +1,4 @@
+{
+    "extends": "@so-opm-dsa/ts-config/react.json",
+    "include": ["src"]
+  }
